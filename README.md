@@ -22,7 +22,7 @@ Ensure the product page is mobile-friendly.
 
 Technical Requirements: Please use Laravel, MongoDB, and VueJS for this task.
 
-### Project Teck stack
+### Project Tech stack
 
 1. PHP v8
 2. Laravel v9
